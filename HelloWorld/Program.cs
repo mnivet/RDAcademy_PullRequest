@@ -15,7 +15,7 @@ namespace HelloWorld
             switch (lang)
             {
                 case "fr":
-                    Console.WriteLine("Bonjour le monde!");
+                    Console.WriteLine("Bonjour le monde !");
                     break;
                 default:
                     Console.WriteLine("Hello world!");
